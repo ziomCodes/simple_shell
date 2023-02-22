@@ -6,6 +6,7 @@
  * Return: 0 if no numbers in string, converted number otherwise
  *       -1 on error
  */
+
 int _erratoi(char *s)
 {
 	int i = 0;
